@@ -1,0 +1,85 @@
+/* 
+ Localizable.strings
+ EFColorHelp
+ 
+ Created by Edson José Friedmann on 09/05/21.
+ 
+ */
+
+"1st-Color" = "1st Color";
+"2nd-Color" = "2nd Color";
+"3rd-Color" = "3rd Color";
+"Analog" = "Analog";
+"Analog-Help" = "The analog color circle is the combination of the neighboring colors of a color. When selecting the color, the combinations will be shown in the circle.";
+"Back" = "Back";
+"Blue" = "Blue";
+"Blue-Violet" = "Blue-Violet";
+"Bright" = "Bright";
+"Brightness" = "Brightness";
+"Brightness-no-effect" = "Brightness (0% no effect)";
+"Chromatic" = "Chromatic";
+"Chromatic-Circle" = "Chromatic circle";
+"Chromatic-Circle-Help-1" = "The color wheel is used to create colorful compositions. A quick guide to identifying analogous, complementary and other harmonic color combinations.";
+"Chromatic-Circle-Help-2" = "Below the circle it is possible show or hide the sliders to control the brightness, saturation and tint for bright wheel or shadow for dark wheel.";
+"Complementary" = "Complementary";
+"Color-Combination" = "Color Combination";
+"Color-Combination-Help-1" = "The color matching page is a quick way to view all available color wheels at the same time.";
+"Color-Combination-Help-2" = "On the left side you can select a new color, then all the circles will be updated.";
+"Color-Combination-Help-3" = "If you want to get more details about a particular color wheel, just keep it pressed for a few moments.";
+"Color-Selection" = "Color selection";
+"Color-Selection-Help-1" = "The color can be selected in two ways, in the upper blocks or in the circle itself!";
+"Color-Selection-Help-2" = "The selected color will appear at the bottom and in front of it the corresponding shades!";
+"Color-Selection-Help-3" = "When selecting one of the color bands of the lower blocks, a screen with the same colors will be shown in an enlarged way!";
+"Color-Selection-Help-4" = "On the screen are shown the enlarged bands and a slider, which increases or decreases the brightness of the colors.";
+"Color-Selection-Help-5" = "When selecting one of the available colors,it will be shown in full screen!";
+"Color-Selection-Help-6" = "On footer we have the Hexadecimal code of the selected color and in the center the number corresponding to the color range!";
+"Complementary-Help" = "The complementary color circle is the combination of the opposite colors of a color.";
+"Dark" = "Dark";
+"Double-Complementary" = "Double Complementary";
+"Double-Complementary-Help" = "The complementary double color circle is the combination of two opposite color pairs.";
+"FullVersion" = "Full version (Paid)";
+"FullVersion_01" = "What is include at full version (EFColorHelp) ?";
+"FullVersion_02" = "- Split Complementary";
+"FullVersion_03" = "- Double Complementary";
+"FullVersion_04" = "- Based on selected color visualize the colors that mount the selected chromatic wheel";
+"FullVersion_05" = "- Expanded screen for selected color levels";
+"FullVersion_06" = "- Full screen with selected color";
+"FullVersion_07" = "- Extended help menu showing theory about primary/secondary and tertiary colors";
+"FullVersion_08" = "- Control the brightness, saturation and tint for bright wheel or shadow for dark wheel";
+"Green" = "Green";
+"Green-Blue" = "Green-Blue";
+"Help" = "Help";
+"Monochromatic" = "Monochromatic";
+"Monochromatic-Help" = "The monochromatic color circle is the combination of two or more shades of the same color.";
+"Next-Color" = "Next color";
+"Orange" = "Orange";
+"Orange-Yellow" = "Orange-Yellow";
+"Previous-Color" = "Previous color";
+"Primary-Colors" = "Primary colors";
+"Primary-Colors-Help" = "This is the basic triangle with the primary colors.They are Yellow, Red and Blue.";
+"Red" = "Red";
+"Red-Orange" = "Red-Orange";
+"Saturation" = "Saturation";
+"Secondary-Colors" = "Secondary colors";
+"Secondary-Colors-Help" = "These are the secondary colors.They are formed by the mixing of two primary colors";
+"Select-The-Desired-Color" = "Select the desired color on left side to make the combinations. Press the circle to view to corresponding color wheel.";
+"Selected-Color" = "Selected color";
+"Settings" = "Settings";
+"Settings-Ton" = "Wheel Hue";
+"Shade" = "Shade";
+"Sorry" = "Sorry..";
+"Split-Complementary" = "Split Complementary";
+"Split-Complementary-Help" = "The complementary split color circle is the combination of two neighboring colors of one color.";
+"Tap-Here-To-Hide-Sliders" = "Tap here to hide sliders.";
+"Tap-Here-To-Show-Sliders" = "Tap here to show sliders.";
+"Tap-To-Show-Sliders" = "Tap circle a few seconds to show sliders.";
+"Tertiary-Colors" = "Tertiary colors";
+"Tertiary-Colors-Help" = "These are the tertiary colors.They are formed by the mixing a primary and secondary color";
+"Tint" = "Tint";
+"Triadic" = "Triadic";
+"Triadic-Help" = "The triadic color circle is the combination of three colors that have the same distance in the chromatic circle.";
+"Unsupported-Orientation" = "This app does not support this kind of screen orientation.";
+"Violet" = "Violet";
+"Violet-Red" = "Violet-Red";
+"Yellow" = "Yellow";
+"Yellow-Green" = "Yellow-Green";

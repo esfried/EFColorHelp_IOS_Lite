@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  EFColorHelp
+
+  Created by Edson José Friedmann on 09/05/21.
+  
+*/
+
+"1st-Color" = "1ª Cor";
+"2nd-Color" = "2ª Cor";
+"3rd-Color" = "3ª Cor";
+"Analog" = "Análoga";
+"Analog-Help" = "O círculo de cores análogas é a combinação das cores vizinhas de uma cor. Ao selecionar a cor, suas combinações serão mostradas no círculo.";
+"Back" = "Voltar";
+"Blue" = "Azul";
+"Blue-Violet" = "Azul-Violeta";
+"Bright" = "Clara";
+"Brightness" = "Brilho";
+"Brightness-no-effect" = "Brilho (0%) sem efeito";
+"Chromatic" = "Cromático";
+"Chromatic-Circle" = "Círculo cromático";
+"Chromatic-Circle-Help-1" = "O círculo cromático é utilizado para criar composições coloridas. Um guia rápido para identificar combinações de cores análogas, complementares e outras combinações harmônicas.";
+"Chromatic-Circle-Help-2" = "Abaixo do círculo é possível mostrar ou ocultar os controles deslizantes para brilho da cor, saturação e matiz para a roda clara ou sombra para a roda escura.";
+"Color-Combination" = "Combinação de cores";
+"Color-Combination-Help-1" = "A tela de combinação de cores é uma forma rápida de visualizar todos os círculos de uma só vez.";
+"Color-Combination-Help-2" = "Nos blocos no lado esquerdo pode-se selecionar uma nova cor, então todos os círculos serão atualizados.";
+"Color-Combination-Help-3" = "Caso queira obter mais detalhes de um determinado circulo, basta mantê-lo pressionado por alguns instantes.";
+"Color-Selection" = "Seleção de cores";
+"Color-Selection-Help-1" = "A cor desejada pode ser selecionada de duas maneiras, nos blocos superiores ou no próprio círculo.";
+"Color-Selection-Help-2" = "A cor selecionada aparecerá na parte inferior e na frente dela as tonalidades correspondentes !";
+"Color-Selection-Help-3" = "Ao selecionar uma das faixas de cores dos blocos inferiores, será mostrada uma tela com as mesmas cores de forma ampliada !";
+"Color-Selection-Help-4" = "Na tela são apresentadas as faixas ampliadas e um controle deslizante, o qual aumenta ou diminui a luminosidade das cores.";
+"Color-Selection-Help-5" = "Ao selecionar uma das cores disponíveis, a mesma será mostrada em tela cheia !";
+"Color-Selection-Help-6" = "No rodapé temos o código Hexadecimal da cor selecionada e no centro o número correspondente a faixa de cores !";
+"Complementary" = "Complementar";
+"Complementary-Help" = "O círculo de cores complementares é a combinação das cores opostas de uma cor.";
+"Dark" = "Escura";
+"Double-Complementary" = "Complementar dupla";
+"Double-Complementary-Help" = "O círculo de cores complementar dupla é a combinação de dois pares de cores opostas entre si.";
+"FullVersion" = "Versão Completa (Paga)";
+"FullVersion_01" = "O que está incluso na versão completa (EFColorHelp) ?";
+"FullVersion_02" = "- Cores complementares divididas";
+"FullVersion_03" = "- Cores complementares duplas";
+"FullVersion_04" = "- Com base na cor selecionada visualize as cores que montam o círculo cromático selecionado";
+"FullVersion_05" = "- Tela expandida com os níveis da cor selecionada";
+"FullVersion_06" = "- Tela cheia com a cor selecionada";
+"FullVersion_07" = "- Tela de ajuda extendida mostrando introdução sobre cores primarias/secundarias e terciárias";
+"FullVersion_08" = "- Controle de brilho, saturação e matiz para a círculo claro ou sombra para a círculo escuro";
+"Green" = "Verde";
+"Green-Blue" = "Verde-Azul";
+"Help" = "Ajuda";
+"Monochromatic" = "Monocromático";
+"Monochromatic-Help" = "O círculo de cores monocromático é a combinação de dois ou mais tons da mesma cor.";
+"Next-Color" = "Próxima cor";
+"Orange" = "Laranja";
+"Orange-Yellow" = "Laranja-Amarelo";
+"Previous-Color" = "Cor anterior";
+"Primary-Colors" = "Cores primárias";
+"Primary-Colors-Help" = "Este é o triângulo básico das cores primárias. São elas o amarelo, o vermelho e o azul.";
+"Red" = "Vermelho";
+"Red-Orange" = "Vermelho-Laranja";
+"Saturation" = "Saturação";
+"Secondary-Colors" = "Cores secundárias";
+"Secondary-Colors-Help" = "Estas são as cores secundárias. Elas são formadas pela mistura de duas cores primárias.";
+"Select-The-Desired-Color" = "Selecione a cor desejada ao lado para ver as combinações. Pressione o círculo para visualizá-lo.";
+"Selected-Color" = "Cor Selecionada";
+"Settings" = "Ajustes";
+"Settings-Ton" = "Tonalidade da cor";
+"Shade" = "Sombra";
+"Sorry" = "Desculpe...";
+"Split-Complementary" = "Complementar dividida";
+"Split-Complementary-Help" = "O círculo de cores complementar dividida é a combinação de duas cores vizinhas de uma cor.";
+"Tap-Here-To-Hide-Sliders" = "Toque aqui para ocultar os controles deslizantes.";
+"Tap-Here-To-Show-Sliders" = "Toque aqui para mostrar os controles deslizantes.";
+"Tap-To-Show-Sliders" = "Toque o círculo por um tempo para mostrar os controles deslizantes.";
+"Tertiary-Colors" = "Cores terciárias";
+"Tertiary-Colors-Help" = "Estas são as cores terciárias. Elas são formadas pela mistura de uma cor primária e uma secundária.";
+"Tint" = "Matiz (Tint)";
+"Triadic" = "Tríade";
+"Triadic-Help" = "O círculo de cores triádicas é a combinação de três cores que tem a mesma distância no círculo cromático.";
+"Unsupported-Orientation" = "Este aplicativo não oferece suporte a esse tipo de orientação de tela.";
+"Violet" = "Violeta";
+"Violet-Red" = "Violeta-Vermelha";
+"Yellow" = "Amarelo";
+"Yellow-Green" = "Amarelo-Verde";
