@@ -23,13 +23,15 @@ struct ColorCombinationHelpView: View {
                 VStack(alignment: .leading, spacing: 6) {
                     Text(LocalizedStringKey("Color-Combination-Help-1"))
                     ColorCombinationView(showTitle: false, tabSelection: $tabSelection, orientation: .portrait)
-                        .frame(minHeight: 980)
+                        .frame(minHeight: 680)
                     Spacer()
                     Text(LocalizedStringKey("Color-Combination-Help-2"))
-                    Spacer(minLength: 30)
+                    Spacer()
+                    Text(LocalizedStringKey("Color-Combination-Help-2a"))
+                    Spacer(minLength: 5)
                 }
             }
-            .padding(2)
+            .padding()
             .font(.callout)
         }
         .padding(0)

@@ -33,6 +33,7 @@
 "Color-Combination" = "Combinación de colores";
 "Color-Combination-Help-1" = "La página de combinación de colores es una forma rápida de ver todas las ruedas de colores disponibles al mismo tiempo.";
 "Color-Combination-Help-2" = "En el lado izquierdo puede seleccionar un nuevo color, luego se actualizarán todos los círculos.";
+"Color-Combination-Help-2a" = "* incluye ruedas complementarias divididas y dobles complementarias.";
 "Color-Combination-Help-3" = "Si desea obtener más detalles sobre una rueda de colores en particular, manténgala presionada durante unos momentos.";
 "Color-Selection" = "Selección de color";
 "Color-Selection-Help-1" = "A cor desejada pode ser selecionada de duas maneiras, nos blocos superiores ou no próprio círculo.";

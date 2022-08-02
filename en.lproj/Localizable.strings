@@ -24,7 +24,8 @@
 "Complementary" = "Complementary";
 "Color-Combination" = "Color Combination";
 "Color-Combination-Help-1" = "The color matching page is a quick way to view all available color wheels at the same time.";
-"Color-Combination-Help-2" = "On the left side you can select a new color, then all the circles will be updated.";
+"Color-Combination-Help-2" = "On the left side you can select a new color, then all the circles will be updated. ";
+"Color-Combination-Help-2a" = "* Included split complementary and double complementary wheels. ";
 "Color-Combination-Help-3" = "If you want to get more details about a particular color wheel, just keep it pressed for a few moments.";
 "Color-Selection" = "Color selection";
 "Color-Selection-Help-1" = "The color can be selected in two ways, in the upper blocks or in the circle itself!";

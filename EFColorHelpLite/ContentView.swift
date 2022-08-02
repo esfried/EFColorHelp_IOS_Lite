@@ -23,12 +23,12 @@ struct ContentView: View {
             TabView(selection: $tabSelection) {
                 ColorWheelsView(orientation: self.orientation)
                     .padding(.vertical,8)
-                ColorCombinationView(showTitle: true, tabSelection: $tabSelection, orientation: orientation)
+                /*ColorCombinationView(showTitle: true, tabSelection: $tabSelection, orientation: orientation)
                     .tabItem {
                         Image(systemName: "chart.bar.doc.horizontal")
                         Text(LocalizedStringKey("Color-Combination"))
                     }
-                    .tag(1)
+                    .tag(1)*/
                 
                 HelpMenuView()
                     .tabItem {

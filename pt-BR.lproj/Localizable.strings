@@ -24,6 +24,7 @@
 "Color-Combination" = "Combinação de cores";
 "Color-Combination-Help-1" = "A tela de combinação de cores é uma forma rápida de visualizar todos os círculos de uma só vez.";
 "Color-Combination-Help-2" = "Nos blocos no lado esquerdo pode-se selecionar uma nova cor, então todos os círculos serão atualizados.";
+"Color-Combination-Help-2a" = "* Círculos complementares divididos e duplos inclusos";
 "Color-Combination-Help-3" = "Caso queira obter mais detalhes de um determinado circulo, basta mantê-lo pressionado por alguns instantes.";
 "Color-Selection" = "Seleção de cores";
 "Color-Selection-Help-1" = "A cor desejada pode ser selecionada de duas maneiras, nos blocos superiores ou no próprio círculo.";

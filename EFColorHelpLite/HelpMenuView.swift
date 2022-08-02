@@ -39,12 +39,15 @@ struct HelpMenuLandscapeView: View {
                 HelpHeader(text: Text(LocalizedStringKey("Help")))
                 ScrollView {
                     ChromaticCircleHelpView()
-                        .frame(height: 700)
-                    ColorCombinationHelpView()
+                        .frame(height: 600)
                     MonochromaticHelpView()
+                        .frame(height: 600)
                     AnalogHelpView()
+                        .frame(height: 600)
                     ComplementaryHelpView()
+                        .frame(height: 600)
                     TriadicHelpView()
+                        .frame(height: 600)
                     FullVersionHelpView()
                 }
             }

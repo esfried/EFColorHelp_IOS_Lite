@@ -24,6 +24,7 @@ struct FullVersionHelpView: View {
                     Text(LocalizedStringKey("FullVersion_01"))
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding()
+                    
                     Text(LocalizedStringKey("FullVersion_02"))
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding()
@@ -69,11 +70,17 @@ struct FullVersionHelpView: View {
                     ColorDetailedView(index:5, showTitle:true, orientation: self.orientation)
                         .frame(height:550)
                         .padding()
+                }
+                
+                Group {
+                    Divider()
+                    ColorCombinationHelpView()
+           
                     Divider()
                     Text(LocalizedStringKey("FullVersion_07"))
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding()
-                    
+                 
                     Divider()
                     Text(LocalizedStringKey("FullVersion_08"))
                         .frame(maxWidth: .infinity, alignment: .leading)
